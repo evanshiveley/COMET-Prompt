@@ -1,0 +1,11 @@
+Astronaut: “Artemis Rover Ops reporting in. The rover is approaching the shadowed region. Telemetry is stable, and power levels are at 68 percent. Visibility is dropping as expected, but LiDAR and thermal mapping are compensating. Proceeding with caution. Over.”
+
+Mission Control: “Copy that, Artemis Rover Ops. We see the drop in visual feed and confirm the decreasing sunlight levels. Maintain current trajectory and proceed with caution. Let us know if obstacle detection degrades below threshold. Over.” 
+
+Astronaut: “Rover is maintaining a steady pace. No major obstacles detected so far. Adjusting speed to conserve power—now operating at reduced output. LiDAR is still providing clear readings. Over.” 
+
+Mission Control: “Roger, Artemis Rover Ops. That’s a good call. We’re running predictive terrain modeling on our end. If needed, we can suggest alternate routes. Keep us updated on battery status as you advance. Over.” 
+
+Astronaut: “Rover is now fully in the shadowed zone. Temperature is dropping, and solar input is minimal. Switching to onboard power reserves. Visual feed is degrading rapidly, but LiDAR remains functional. Proceeding with extreme caution. Over.”
+
+Astronaut: “We’ve hit a complication. Sensor data is becoming unreliable—LiDAR is struggling to distinguish solid ground from deep depressions. The rover may be approaching an unseen drop-off. Visibility is effectively zero. I need a strategy to navigate forward without risking a fall. Over.”
